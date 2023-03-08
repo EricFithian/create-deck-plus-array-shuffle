@@ -17,7 +17,7 @@ function createDeckOfCards() {
     return deck;
 }
 
-const deck = createDeckOfCards()
+// const deck = createDeckOfCards()
 
 
 function shuffle(arr) {
@@ -32,7 +32,7 @@ function shuffle(arr) {
     return newArr;
 }
 
-console.log(shuffle(deck));
+// console.log(shuffle(deck));
 
 const exportedFunctions = {
     // createDeckOfCards: createDeckOfCards,
@@ -41,4 +41,4 @@ const exportedFunctions = {
     shuffle
 }
 
-// module.exports = exportedFunctions;
+module.exports = exportedFunctions;

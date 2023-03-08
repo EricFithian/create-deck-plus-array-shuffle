@@ -1,6 +1,6 @@
 {
   "name": "create-deck-plus-array-shuffle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allow students to create a deck of cards or shuffle any array",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
