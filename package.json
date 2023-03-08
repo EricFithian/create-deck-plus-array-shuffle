@@ -1,0 +1,20 @@
+{
+  "name": "create-deck-plus-array-shuffle",
+  "version": "1.0.0",
+  "description": "Allow students to create a deck of cards or shuffle any array",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricFithian/create-deck-plus-array-shuffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EricFithian/create-deck-plus-array-shuffle/issues"
+  },
+  "homepage": "https://github.com/EricFithian/create-deck-plus-array-shuffle#readme"
+}
