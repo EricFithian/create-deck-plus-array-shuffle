@@ -134,7 +134,7 @@ Please note that you may have to run a local file for Javascript by adding to yo
 {
   "type": "module",
   "dependencies": {
-    "create-deck-plus-array-shuffle": "^1.0.1"
+    "create-deck-plus-array-shuffle": "^1.0.2"
   }
 }
 ```

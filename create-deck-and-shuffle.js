@@ -34,11 +34,9 @@ function shuffle(arr) {
 
 // console.log(shuffle(deck));
 
-const exportedFunctions = {
+export default exportedFunctions = {
     // createDeckOfCards: createDeckOfCards,
     // shuffle: shuffle
     createDeckOfCards,
     shuffle
 }
-
-module.exports = exportedFunctions;
